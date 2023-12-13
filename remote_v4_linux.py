@@ -13,7 +13,7 @@ import errno  # Import errno for error number codes
 
 app = Flask(__name__)
 
-TOKEN = '1898741656:AAH-s2qX7yUY-pSjRHt8ZVrPuUGRsf12o_c'  # Replace with your bot token
+TOKEN = '189xx656:AAH-s2qxUY-pSjxxxUGRsf12o_c'  # Replace with your bot token
 TELEGRAM_API = f'https://api.telegram.org/bot{TOKEN}'
 script_process = None
 
